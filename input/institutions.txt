@@ -1,0 +1,246 @@
+The file contains a list of institutions, detailing their name, city and country and current academic prestige metrics of h-index and i10-index. Each entry specifies the institutions informations. The h-index measures both the productivity and citation impact of a researcher’s published work. An individual has an h-index of h if they have published h papers that have each been cited at least h times. For example, an h-index of 10 means the researcher has 10 papers with at least 10 citations each. It helps to balance the number of publications with the number of citations, providing a more nuanced view of a researcher’s impact than simply counting citations or publications alone. The i10-index is simpler. It counts the number of papers with at least 10 citations. For example, if a researcher has 15 papers with at least 10 citations each, their i10-index is 15. It’s a straightforward measure of the number of influential papers.
+
+
+University of Stuttgart is a institution in Stuttgart, Germany, with an h-index score of 374 and i10-index of 28109.
+Universidade Federal de Juiz de Fora is a institution in Juiz de Fora, Brazil, with an h-index score of 134 and i10-index of 5187.
+Université Paris-Sud is a institution in Orsay, France, with an h-index score of 504 and i10-index of 37055.
+Karlsruhe Institute of Technology is a institution in Karlsruhe, Germany, with an h-index score of 420 and i10-index of 39508.
+Université de Technologie de Compiègne is a institution in Compiègne, France, with an h-index score of 159 and i10-index of 3326.
+Universidade Estadual do Ceará is a institution in Fortaleza, Brazil, with an h-index score of 89 and i10-index of 2367.
+University of California, Riverside is a institution in Riverside, United States, with an h-index score of 493 and i10-index of 39243.
+Institut polytechnique de Grenoble is a institution in Grenoble, France, with an h-index score of 191 and i10-index of 5560.
+Instituto Tecnológico de Aeronáutica is a institution in São José dos Campos, Brazil, with an h-index score of 97 and i10-index of 1963.
+Universidade Federal de Ouro Preto is a institution in Ouro Preto, Brazil, with an h-index score of 119 and i10-index of 3424.
+University of Pisa is a institution in Pisa, Italy, with an h-index score of 420 and i10-index of 44759.
+University of Essex is a institution in Colchester, United Kingdom, with an h-index score of 311 and i10-index of 13276.
+Universidade Federal de Minas Gerais is a institution in Belo Horizonte, Brazil, with an h-index score of 286 and i10-index of 31017.
+Boston University is a institution in Boston, United States, with an h-index score of 788 and i10-index of 81787.
+University of East Anglia is a institution in Norwich, United Kingdom, with an h-index score of 458 and i10-index of 24986.
+Northwestern University is a institution in Evanston, United States, with an h-index score of 842 and i10-index of 109820.
+École Normale Supérieure de Lyon is a institution in Lyon, France, with an h-index score of 271 and i10-index of 9274.
+University of North Carolina at Chapel Hill is a institution in Chapel Hill, United States, with an h-index score of 866 and i10-index of 113722.
+Tokyo Institute of Technology is a institution in Tokyo, Japan, with an h-index score of 401 and i10-index of 51123.
+University of Southern California is a institution in Los Angeles, United States, with an h-index score of 796 and i10-index of 105579.
+University of Bern is a institution in Bern, Switzerland, with an h-index score of 549 and i10-index of 53342.
+Universidade Federal do Rio de Janeiro is a institution in Rio de Janeiro, Brazil, with an h-index score of 311 and i10-index of 37811.
+University of Modena and Reggio Emilia is a institution in Modena, Italy, with an h-index score of 310 and i10-index of 21124.
+Universidade Federal de Mato Grosso do Sul is a institution in Campo Grande, Brazil, with an h-index score of 113 and i10-index of 3722.
+Universitat Autònoma de Barcelona is a institution in Cerdanyola del Vallès, Spain, with an h-index score of 426 and i10-index of 45875.
+Universidade Estadual de Maringá is a institution in Maringá, Brazil, with an h-index score of 159 and i10-index of 8416.
+Télécom Paris is a institution in Paris, France, with an h-index score of 159 and i10-index of 3002.
+University of London is a institution in London, United Kingdom, with an h-index score of 489 and i10-index of 35729.
+Universidade Federal da Bahia is a institution in Salvador, Brazil, with an h-index score of 182 and i10-index of 10534.
+Universidade Federal do Rio Grande is a institution in Rio Grande, Brazil, with an h-index score of 145 and i10-index of 4695.
+Universidade Estadual de Londrina is a institution in Londrina, Brazil, with an h-index score of 142 and i10-index of 6840.
+Universidade Tecnológica Federal do Paraná is a institution in Curitiba, Brazil, with an h-index score of 115 and i10-index of 4467.
+Centre National de la Recherche Scientifique is a institution in Paris, France, with an h-index score of 973 and i10-index of 331223.
+University of Sydney is a institution in Sydney, Australia, with an h-index score of 690 and i10-index of 118811.
+Shizuoka University is a institution in Shizuoka, Japan, with an h-index score of 173 and i10-index of 8855.
+Universidade Federal do Rio Grande do Sul is a institution in Porto Alegre, Brazil, with an h-index score of 298 and i10-index of 35688.
+Georgia Institute of Technology is a institution in Atlanta, United States, with an h-index score of 667 and i10-index of 70220.
+Pennsylvania State University is a institution in State College, United States, with an h-index score of 767 and i10-index of 122263.
+University of Leeds is a institution in Leeds, United Kingdom, with an h-index score of 580 and i10-index of 65530.
+Universidade Federal de Lavras is a institution in Lavras, Brazil, with an h-index score of 137 and i10-index of 6933.
+University System of Maryland is a institution in Adelphi, United States, with an h-index score of 84 and i10-index of 306.
+Universidade Federal do Acre is a institution in Rio Branco, Brazil, with an h-index score of 73 and i10-index of 750.
+Université Libre de Bruxelles is a institution in Brussels, Belgium, with an h-index score of 464 and i10-index of 31408.
+Institut national de recherche en informatique et en automatique is a institution in Le Chesnay-Rocquencourt, France, with an h-index score of 360 and i10-index of 15902.
+Université Toulouse III - Paul Sabatier is a institution in Toulouse, France, with an h-index score of 381 and i10-index of 25799.
+University of Wisconsin–Madison is a institution in Madison, United States, with an h-index score of 882 and i10-index of 149528.
+Harvard University is a institution in Cambridge, United States, with an h-index score of 1596 and i10-index of 345733.
+University of Arizona is a institution in Tucson, United States, with an h-index score of 738 and i10-index of 92232.
+University of Padua is a institution in Padua, Italy, with an h-index score of 539 and i10-index of 71026.
+University of Lisbon is a institution in Lisbon, Portugal, with an h-index score of 377 and i10-index of 39564.
+Instituto Nacional de Matemática Pura e Aplicada is a institution in Rio de Janeiro, Brazil, with an h-index score of 106 and i10-index of 1268.
+University of British Columbia is a institution in Vancouver, Canada, with an h-index score of 814 and i10-index of 131183.
+École Polytechnique is a institution in Palaiseau, France, with an h-index score of 321 and i10-index of 14913.
+Loughborough University is a institution in Loughborough, United Kingdom, with an h-index score of 338 and i10-index of 24656.
+Universidade Federal de Viçosa is a institution in Viçosa, Brazil, with an h-index score of 182 and i10-index of 11999.
+University of Liverpool is a institution in Liverpool, United Kingdom, with an h-index score of 531 and i10-index of 66902.
+University of Antwerp is a institution in Antwerp, Belgium, with an h-index score of 411 and i10-index of 32173.
+University of Namur is a institution in Namur, Belgium, with an h-index score of 216 and i10-index of 6535.
+Universidade de Brasília is a institution in Brasília, Brazil, with an h-index score of 207 and i10-index of 15321.
+University of Waterloo is a institution in Waterloo, Canada, with an h-index score of 493 and i10-index of 54604.
+University of Kaiserslautern is a institution in Kaiserslautern, Germany, with an h-index score of 246 and i10-index of 12159.
+University of Leicester is a institution in Leicester, United Kingdom, with an h-index score of 487 and i10-index of 34795.
+University of Ottawa is a institution in Ottawa, Canada, with an h-index score of 550 and i10-index of 54445.
+University of Alberta is a institution in Edmonton, Canada, with an h-index score of 634 and i10-index of 98284.
+University of California, Santa Barbara is a institution in Santa Barbara, United States, with an h-index score of 715 and i10-index of 56314.
+University of Hildesheim is a institution in Hildesheim, Germany, with an h-index score of 88 and i10-index of 1011.
+University of Illinois Urbana-Champaign is a institution in Urbana, United States, with an h-index score of 829 and i10-index of 131946.
+Federal Center for Technological Education Celso Suckow da Fonseca is a institution in Rio de Janeiro, Brazil, with an h-index score of 65 and i10-index of 727.
+Universidade Federal Fluminense is a institution in Niterói, Brazil, with an h-index score of 173 and i10-index of 11796.
+University of California, Los Angeles is a institution in Los Angeles, United States, with an h-index score of 1017 and i10-index of 164653.
+Bangor University is a institution in Bangor, United Kingdom, with an h-index score of 330 and i10-index of 13988.
+Sant'Anna School of Advanced Studies is a institution in Pisa, Italy, with an h-index score of 201 and i10-index of 5772.
+University of Sussex is a institution in Brighton, United Kingdom, with an h-index score of 489 and i10-index of 28619.
+Universidade do Estado de Santa Catarina is a institution in Florianópolis, Brazil, with an h-index score of 93 and i10-index of 2920.
+Rensselaer Polytechnic Institute is a institution in Troy, United States, with an h-index score of 414 and i10-index of 21421.
+Queen Mary University of London is a institution in London, United Kingdom, with an h-index score of 517 and i10-index of 42222.
+Universidade Federal da Paraíba is a institution in João Pessoa, Brazil, with an h-index score of 153 and i10-index of 8555.
+Universidade Federal de Pelotas is a institution in Pelotas, Brazil, with an h-index score of 190 and i10-index of 7810.
+Instituto Politécnico de Leiria is a institution in Leiria, Portugal, with an h-index score of 101 and i10-index of 1554.
+Pontifícia Universidade Católica de Minas Gerais is a institution in Belo Horizonte, Brazil, with an h-index score of 94 and i10-index of 1639.
+University of Potsdam is a institution in Potsdam, Germany, with an h-index score of 302 and i10-index of 16034.
+Pontifícia Universidade Católica do Paraná is a institution in Curitiba, Brazil, with an h-index score of 130 and i10-index of 3110.
+Université Joseph Fourier is a institution in Grenoble, France, with an h-index score of 351 and i10-index of 14910.
+Japan Advanced Institute of Science and Technology is a institution in Nomi Shi, Japan, with an h-index score of 152 and i10-index of 4326.
+Universidade Federal de São Carlos is a institution in São Carlos, Brazil, with an h-index score of 202 and i10-index of 18017.
+Université de Toulouse is a institution in Toulouse, France, with an h-index score of 301 and i10-index of 15300.
+University of Augsburg is a institution in Augsburg, Germany, with an h-index score of 212 and i10-index of 6719.
+Universidade de São Paulo is a institution in São Paulo, Brazil, with an h-index score of 497 and i10-index of 120952.
+City, University of London is a institution in London, United Kingdom, with an h-index score of 263 and i10-index of 10933.
+Universidade Estadual de Campinas (UNICAMP) is a institution in Campinas, Brazil, with an h-index score of 329 and i10-index of 47497.
+University of Strathclyde is a institution in Glasgow, United Kingdom, with an h-index score of 344 and i10-index of 27562.
+Universidade do Porto is a institution in Porto, Portugal, with an h-index score of 373 and i10-index of 40230.
+King's College London is a institution in London, United Kingdom, with an h-index score of 695 and i10-index of 78894.
+University of California, Santa Cruz is a institution in Santa Cruz, United States, with an h-index score of 558 and i10-index of 29269.
+University of Milan is a institution in Milan, Italy, with an h-index score of 543 and i10-index of 75195.
+The University of Texas at Arlington is a institution in Arlington, United States, with an h-index score of 289 and i10-index of 14672.
+Universidad de Alcalá is a institution in Alcalá de Henares, Spain, with an h-index score of 214 and i10-index of 11307.
+Universidade Federal de Sergipe is a institution in Aracaju, Brazil, with an h-index score of 115 and i10-index of 4083.
+University of Trento is a institution in Trento, Italy, with an h-index score of 306 and i10-index of 17081.
+Universidade Estadual do Oeste do Paraná is a institution in Cascavel, Brazil, with an h-index score of 85 and i10-index of 2190.
+Université de Montpellier is a institution in Montpellier, France, with an h-index score of 374 and i10-index of 25909.
+Vanderbilt University is a institution in Nashville, United States, with an h-index score of 669 and i10-index of 66718.
+Princeton University is a institution in Princeton, United States, with an h-index score of 929 and i10-index of 79200.
+University of Washington is a institution in Seattle, United States, with an h-index score of 1130 and i10-index of 191842.
+University of California, Irvine is a institution in Irvine, United States, with an h-index score of 682 and i10-index of 72324.
+Norwegian University of Science and Technology is a institution in Trondheim, Norway, with an h-index score of 430 and i10-index of 38884.
+Trinity College Dublin is a institution in Dublin, Ireland, with an h-index score of 482 and i10-index of 29884.
+Institut National Polytechnique de Toulouse is a institution in Toulouse, France, with an h-index score of 193 and i10-index of 4607.
+Cornell University is a institution in Ithaca, United States, with an h-index score of 1046 and i10-index of 176502.
+University of Kent is a institution in Canterbury, United Kingdom, with an h-index score of 299 and i10-index of 15401.
+Paderborn University is a institution in Paderborn, Germany, with an h-index score of 206 and i10-index of 7965.
+University of Victoria is a institution in Victoria, Canada, with an h-index score of 383 and i10-index of 24348.
+Aix-Marseille Université is a institution in Marseille, France, with an h-index score of 365 and i10-index of 21223.
+Universidade Estadual de Feira de Santana is a institution in Feira de Santana, Brazil, with an h-index score of 107 and i10-index of 1951.
+Purdue University West Lafayette is a institution in West Lafayette, United States, with an h-index score of 596 and i10-index of 79741.
+University of Utah is a institution in Salt Lake City, United States, with an h-index score of 677 and i10-index of 81441.
+University of Cambridge is a institution in Cambridge, United Kingdom, with an h-index score of 995 and i10-index of 159996.
+Universidade Federal do Ceará is a institution in Fortaleza, Brazil, with an h-index score of 193 and i10-index of 12333.
+University of Massachusetts Amherst is a institution in Amherst Center, United States, with an h-index score of 552 and i10-index of 45420.
+Universidade Federal de Pernambuco is a institution in Recife, Brazil, with an h-index score of 190 and i10-index of 13754.
+Pontifical Catholic University of Rio de Janeiro is a institution in Rio de Janeiro, Brazil, with an h-index score of 168 and i10-index of 6086.
+Hospitais da Universidade de Coimbra is a institution in Coimbra, Portugal, with an h-index score of 116 and i10-index of 1570.
+Balseiro Institute is a institution in Bariloche, Argentina, with an h-index score of 106 and i10-index of 1757.
+Institut National des Sciences Appliquées de Rennes is a institution in Rennes, France, with an h-index score of 93 and i10-index of 960.
+University of Manchester is a institution in Manchester, United Kingdom, with an h-index score of 692 and i10-index of 107217.
+Instituto Federal do Ceará is a institution in Fortaleza, Brazil, with an h-index score of 60 and i10-index of 654.
+Universidade Federal do Piauí is a institution in Teresina, Brazil, with an h-index score of 101 and i10-index of 3358.
+Universidade de Fortaleza is a institution in Fortaleza, Brazil, with an h-index score of 97 and i10-index of 1752.
+Technical University of Darmstadt is a institution in Darmstadt, Germany, with an h-index score of 322 and i10-index of 21544.
+University of Florida is a institution in Gainesville, United States, with an h-index score of 695 and i10-index of 125491.
+Universidade Federal de Santa Maria is a institution in Santa Maria, Brazil, with an h-index score of 161 and i10-index of 12303.
+Universidade Federal do Rio Grande do Norte is a institution in Natal, Brazil, with an h-index score of 166 and i10-index of 9590.
+ETH Zurich is a institution in Zurich, Switzerland, with an h-index score of 656 and i10-index of 84521.
+University of California, San Diego is a institution in San Diego, United States, with an h-index score of 1031 and i10-index of 140419.
+Courant Institute of Mathematical Sciences is a institution in New York, United States, with an h-index score of 327 and i10-index of 7000.
+Sorbonne Université is a institution in Paris, France, with an h-index score of 684 and i10-index of 88148.
+University of Oxford is a institution in Oxford, United Kingdom, with an h-index score of 1047 and i10-index of 170461.
+Graz University of Technology is a institution in Graz, Austria, with an h-index score of 285 and i10-index of 13638.
+Universidade Federal de Santa Catarina is a institution in Florianópolis, Brazil, with an h-index score of 212 and i10-index of 19182.
+Universidade Federal de Campina Grande is a institution in Campina Grande, Brazil, with an h-index score of 98 and i10-index of 3338.
+Military Institute of Engineering is a institution in Rio de Janeiro, Brazil, with an h-index score of 82 and i10-index of 1117.
+Heriot-Watt University Malaysia is a institution in Putrajaya, Malaysia, with an h-index score of 87 and i10-index of 1031.
+University of Applied Sciences Tyrol is a institution in Innsbruck, Austria, with an h-index score of 34 and i10-index of 81.
+Université Sorbonne Paris Nord is a institution in Villetaneuse, France, with an h-index score of 210 and i10-index of 6122.
+Universidade Tiradentes is a institution in Aracaju, Brazil, with an h-index score of 71 and i10-index of 798.
+Université Bourgogne Franche-Comté is a institution in Besançon, France, with an h-index score of 100 and i10-index of 1844.
+Karlsruhe University of Education is a institution in Karlsruhe, Germany, with an h-index score of 138 and i10-index of 2150.
+Instituto de Aeronáutica e Espaço is a institution in São José dos Campos, Brazil, with an h-index score of 59 and i10-index of 566.
+Centro Brasileiro de Pesquisas Físicas is a institution in Rio de Janeiro, Brazil, with an h-index score of 144 and i10-index of 3217.
+Federal University of São João del-Rei is a institution in São João del Rei, Brazil, with an h-index score of 106 and i10-index of 2668.
+Federal Center for Technological Education of Minas Gerais is a institution in Belo Horizonte, Brazil, with an h-index score of 83 and i10-index of 1303.
+Institut Superieur de l'Aeronautique et de l'Espace (ISAE-SUPAERO) is a institution in Toulouse, France, with an h-index score of 72 and i10-index of 723.
+Laboratório Nacional de Computação Científica is a institution in Petrópolis, Brazil, with an h-index score of 94 and i10-index of 918.
+Universidade do Vale do Itajaí is a institution in Itajaí, Brazil, with an h-index score of 81 and i10-index of 1207.
+Laboratoire de Recherche en Informatique de Paris 6 is a institution in Paris, France, with an h-index score of 75 and i10-index of 555.
+Institute for Systems and Computer Engineering of Porto is a institution in Porto, Portugal, with an h-index score of 120 and i10-index of 2728.
+Université Laval is a institution in Québec, Canada, with an h-index score of 474 and i10-index of 43245.
+University of Southampton is a institution in Southampton, United Kingdom, with an h-index score of 588 and i10-index of 63898.
+Telecom SudParis is a institution in Évry-Courcouronnes, France, with an h-index score of 0 and i10-index of 0.
+Université de Lille is a institution in Lille, France, with an h-index score of 305 and i10-index of 16979.
+Université Paris-Est Marne-la-Vallée is a institution in Paris, France, with an h-index score of 0 and i10-index of 0.
+Université Montpellier 2 is a institution in Montpellier, France, with an h-index score of 0 and i10-index of 0.
+Université Nice Sophia Antipolis is a institution in Nice, France, with an h-index score of 0 and i10-index of 0.
+Université Paris Descartes is a institution in Paris, France, with an h-index score of 0 and i10-index of 0.
+École Nationale Supérieure des Postes et des Télécommunications is a institution in Yaoundé, Cameroon, with an h-index score of 0 and i10-index of 0.
+Universidade Salvador is a institution in Salvador, Brazil, with an h-index score of 59 and i10-index of 514.
+University College London is a institution in London, United Kingdom, with an h-index score of 989 and i10-index of 199285.
+Pontifícia Universidade Católica do Rio Grande do Sul is a institution in Porto Alegre, Brazil, with an h-index score of 173 and i10-index of 6187.
+Polytechnique Montréal is a institution in Montreal, Canada, with an h-index score of 250 and i10-index of 12300.
+Technische Universität Berlin is a institution in Berlin, Germany, with an h-index score of 379 and i10-index of 31846.
+Universidade Federal do Maranhão is a institution in São Luís, Brazil, with an h-index score of 91 and i10-index of 2759.
+Imperial College London is a institution in London, United Kingdom, with an h-index score of 849 and i10-index of 129672.
+Institut National des Sciences Appliquées de Lyon is a institution in Lyon, France, with an h-index score of 172 and i10-index of 5003.
+SUNY Brockport is a institution in Brockport, United States, with an h-index score of 100 and i10-index of 1341.
+Université d'Angers is a institution in Angers, France, with an h-index score of 205 and i10-index of 5180.
+McGill University is a institution in Montreal, Canada, with an h-index score of 769 and i10-index of 111596.
+Universidade Federal do Espírito Santo is a institution in Vitória, Brazil, with an h-index score of 142 and i10-index of 6431.
+École Polytechnique Fédérale de Lausanne is a institution in Lausanne, Switzerland, with an h-index score of 671 and i10-index of 64666.
+University of York is a institution in York, United Kingdom, with an h-index score of 484 and i10-index of 32219.
+Fundação Oswaldo Cruz is a institution in Rio de Janeiro, Brazil, with an h-index score of 254 and i10-index of 20921.
+Universidade Federal do Paraná is a institution in Curitiba, Brazil, with an h-index score of 218 and i10-index of 16085.
+University of Rochester is a institution in Rochester, United States, with an h-index score of 681 and i10-index of 54323.
+Université de Rennes is a institution in Rennes, France, with an h-index score of 286 and i10-index of 14703.
+Université Paris Dauphine-PSL is a institution in Paris, France, with an h-index score of 185 and i10-index of 2827.
+Università della Svizzera italiana is a institution in Lugano, Switzerland, with an h-index score of 174 and i10-index of 3851.
+New York University is a institution in New York, United States, with an h-index score of 881 and i10-index of 98147.
+Brunel University London is a institution in London, United Kingdom, with an h-index score of 307 and i10-index of 16387.
+Universidade Federal do Pará is a institution in Belém, Brazil, with an h-index score of 151 and i10-index of 6972.
+Middlesex University is a institution in London, United Kingdom, with an h-index score of 200 and i10-index of 5688.
+University of Aveiro is a institution in Aveiro, Portugal, with an h-index score of 269 and i10-index of 20817.
+Universidade do Vale do Rio dos Sinos is a institution in São Leopoldo, Brazil, with an h-index score of 110 and i10-index of 2304.
+Universidade Federal do Amazonas is a institution in Manaus, Brazil, with an h-index score of 108 and i10-index of 3122.
+Universidade Federal Rural de Pernambuco is a institution in Recife, Brazil, with an h-index score of 114 and i10-index of 4666.
+Massachusetts Institute of Technology is a institution in Cambridge, United States, with an h-index score of 1239 and i10-index of 143080.
+University of Maryland, College Park is a institution in College Park, United States, with an h-index score of 748 and i10-index of 88056.
+Lancaster University is a institution in Lancaster, United Kingdom, with an h-index score of 425 and i10-index of 26380.
+Universidade Federal de Goiás is a institution in Goiânia, Brazil, with an h-index score of 168 and i10-index of 8783.
+Syracuse University is a institution in Syracuse, United States, with an h-index score of 394 and i10-index of 22732.
+Niigata University is a institution in Niigata, Japan, with an h-index score of 272 and i10-index of 16938.
+Universidade de Pernambuco is a institution in Recife, Brazil, with an h-index score of 99 and i10-index of 2419.
+University of Brighton is a institution in Brighton, United Kingdom, with an h-index score of 191 and i10-index of 5345.
+Universidade Federal do ABC is a institution in Santo André, Brazil, with an h-index score of 144 and i10-index of 4643.
+Halmstad University is a institution in Halmstad, Sweden, with an h-index score of 123 and i10-index of 1952.
+Carnegie Mellon University is a institution in Pittsburgh, United States, with an h-index score of 746 and i10-index of 58863.
+University of Coimbra is a institution in Coimbra, Portugal, with an h-index score of 296 and i10-index of 23577.
+TU Dresden is a institution in Dresden, Germany, with an h-index score of 427 and i10-index of 37007.
+University of Newcastle Australia is a institution in Newcastle, Australia, with an h-index score of 362 and i10-index of 25424.
+University of Glasgow is a institution in Glasgow, United Kingdom, with an h-index score of 593 and i10-index of 62008.
+University of Maine is a institution in Orono, United States, with an h-index score of 287 and i10-index of 11224.
+University of Pennsylvania is a institution in Philadelphia, United States, with an h-index score of 1046 and i10-index of 162925.
+Universidade Federal de Alagoas is a institution in Maceió, Brazil, with an h-index score of 122 and i10-index of 3414.
+National Institute for Space Research is a institution in São José dos Campos, Brazil, with an h-index score of 191 and i10-index of 5003.
+Universidade Federal de Uberlândia is a institution in Uberlândia, Brazil, with an h-index score of 143 and i10-index of 7291.
+University of Tübingen is a institution in Tübingen, Germany, with an h-index score of 510 and i10-index of 52414.
+Universidade Federal de Itajubá is a institution in Itajubá, Brazil, with an h-index score of 93 and i10-index of 1750.
+Eindhoven University of Technology is a institution in Eindhoven, Netherlands, with an h-index score of 417 and i10-index of 32914.
+Universidade Nova de Lisboa is a institution in Lisbon, Portugal, with an h-index score of 294 and i10-index of 16726.
+Universidade Federal do Estado do Rio de Janeiro is a institution in Rio de Janeiro, Brazil, with an h-index score of 90 and i10-index of 1963.
+University of Genoa is a institution in Genoa, Italy, with an h-index score of 355 and i10-index of 31035.
+Newcastle University is a institution in Newcastle upon Tyne, United Kingdom, with an h-index score of 540 and i10-index of 52575.
+Virginia Tech is a institution in Blacksburg, United States, with an h-index score of 493 and i10-index of 58071.
+Vrije Universiteit Amsterdam is a institution in Amsterdam, Netherlands, with an h-index score of 540 and i10-index of 39885.
+Université Jean Monnet is a institution in Saint-Etienne, France, with an h-index score of 126 and i10-index of 2197.
+Universidade Estadual Paulista (Unesp) is a institution in São Paulo, Brazil, with an h-index score of 253 and i10-index of 42248.
+Universidade Federal de São Paulo is a institution in São Paulo, Brazil, with an h-index score of 267 and i10-index of 24555.
+University of Amsterdam is a institution in Amsterdam, Netherlands, with an h-index score of 663 and i10-index of 88495.
+Institut National des Sciences Appliquées Rouen Normandie is a institution in Saint-Étienne-du-Rouvray, France, with an h-index score of 108 and i10-index of 1592.
+Aalborg University is a institution in Aalborg, Denmark, with an h-index score of 347 and i10-index of 23708.
+Université Grenoble Alpes is a institution in Saint-Martin-d'Hères, France, with an h-index score of 371 and i10-index of 24029.
+Université de Lorraine is a institution in Nancy, France, with an h-index score of 256 and i10-index of 12950.
+Saarland University is a institution in Saarbrücken, Germany, with an h-index score of 357 and i10-index of 24538.
+University of Twente is a institution in Enschede, Netherlands, with an h-index score of 406 and i10-index of 29795.
+UCLouvain is a institution in Louvain-la-Neuve, Belgium, with an h-index score of 473 and i10-index of 33820.
+Otto-von-Guericke University Magdeburg is a institution in Magdeburg, Germany, with an h-index score of 275 and i10-index of 13649.
+Universitat Politècnica de Catalunya is a institution in Barcelona, Spain, with an h-index score of 323 and i10-index of 27414.
+Stanford University is a institution in Stanford, United States, with an h-index score of 1356 and i10-index of 206391.
+Nantes Université is a institution in Nantes, France, with an h-index score of 254 and i10-index of 10165.
+École de Technologie Supérieure is a institution in Montreal, Canada, with an h-index score of 152 and i10-index of 4506.
+Osaka University is a institution in Osaka, Japan, with an h-index score of 613 and i10-index of 99376.
+Delft University of Technology is a institution in Delft, Netherlands, with an h-index score of 494 and i10-index of 54195.
+University of Edinburgh is a institution in Edinburgh, United Kingdom, with an h-index score of 745 and i10-index of 90880.
+Aalto University is a institution in Espoo, Finland, with an h-index score of 297 and i10-index of 18369.
+KU Leuven is a institution in Leuven, Belgium, with an h-index score of 700 and i10-index of 104458.
